@@ -1,0 +1,22 @@
+@import 'https://fonts.googleapis.com/css?family=Fira+Mono';
+
+#App {
+    height: 100%;
+
+}
+#content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 10vh;
+}
+#title {
+    font-family: "Fira Mono";
+    font-size: 3em;
+}
+#TextField {
+}
+
